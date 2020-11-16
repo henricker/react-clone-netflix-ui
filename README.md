@@ -1,2 +1,6 @@
-# react-clone-netflix-ui
- Clone of the netflix UI for the purpose of learning reactjs
+# Clone of the netflix UI for the purpose of learning reactjs (#Inicio)
+
+by: https://www.youtube.com/watch?v=tBweoUiMsDg
+data from: https://api.themoviedb.org/3
+
+# Get your API_KEY and config in Tmdb API_KEY
