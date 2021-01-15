@@ -1,6 +1,5 @@
 # Clone of the netflix UI for the purpose of learning reactjs
 
-by: https://www.youtube.com/watch?v=tBweoUiMsDg
 
 Get your API key in https://api.themoviedb.org/3
 
